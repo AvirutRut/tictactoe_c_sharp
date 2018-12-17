@@ -444,7 +444,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(19F, 37F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoScroll = true;
-            this.BackgroundImage = global::WindowsFormsApplication1.Properties.Resources.background;
+            this.BackgroundImage = global::WindowsFormsApplication1.Properties.Resources._1;
             this.ClientSize = new System.Drawing.Size(1197, 699);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.txtPlayerOResult);

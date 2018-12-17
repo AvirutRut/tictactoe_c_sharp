@@ -972,27 +972,7 @@ namespace WindowsFormsApplication1
             return -1;
         }
 
-        private void button2_Click(object sender, EventArgs e)
-        {
-            language = 0;
-            level = 1;
-            setDefault();
-            //enable english text
-            btnExit.Text = "ออก";
-            btnHumanToComputer.Text = "ผู้เล่น VS คอมพิวเตอร์";
-            btnHumanToHuman.Text = "ผู้เล่น1 VS ผู้เล่น2";
-            btnStart.Text = "เริ่มเกมส์";
-            btnUndo.Text = "ย้อนกลับ";
-            lblGameType.Text = "ตัวเลือก:";
-            lblLevel.Text = "ระดับเลเวล:";
-            lblPlayerX.Text = "ผู้เล่น x: ";
-            lblPlayerO.Text = "คอมพิวเตอร์: ";
-            lblResults.Text = "คะแนน:";
-            radioEasy.Text = "ระดับง่าย";
-            radioMedium.Text = "ระดับกลาง";
-            radioHard.Text = "ระดับยาก";
-            radioMedium.Checked = true;
-        }
+
     }
 
 }

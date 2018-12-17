@@ -34,3 +34,13 @@ D:\c#\1\TicTacToe\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.cs
 D:\c#\1\TicTacToe\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.TicTacToe.resources
 D:\c#\1\TicTacToe\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
 D:\c#\1\TicTacToe\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Rut\Source\Repos\tictactoe_c_sharp\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Rut\Source\Repos\tictactoe_c_sharp\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Rut\Source\Repos\tictactoe_c_sharp\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Rut\Source\Repos\tictactoe_c_sharp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+C:\Users\Rut\Source\Repos\tictactoe_c_sharp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.TicTacToe.resources
+C:\Users\Rut\Source\Repos\tictactoe_c_sharp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Rut\Source\Repos\tictactoe_c_sharp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\Rut\Source\Repos\tictactoe_c_sharp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Rut\Source\Repos\tictactoe_c_sharp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Rut\Source\Repos\tictactoe_c_sharp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

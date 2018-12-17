@@ -55,12 +55,13 @@
             this.lblPlayerO = new System.Windows.Forms.Label();
             this.txtPlayerXResult = new System.Windows.Forms.TextBox();
             this.txtPlayerOResult = new System.Windows.Forms.TextBox();
+            this.button2 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btn1
             // 
             this.btn1.BackColor = System.Drawing.Color.LimeGreen;
-            this.btn1.Font = new System.Drawing.Font("Kristen ITC", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn1.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn1.ForeColor = System.Drawing.SystemColors.ControlText;
             this.btn1.Location = new System.Drawing.Point(318, 145);
             this.btn1.Margin = new System.Windows.Forms.Padding(6, 5, 6, 5);
@@ -74,7 +75,7 @@
             // btnEnglish
             // 
             this.btnEnglish.BackColor = System.Drawing.Color.Firebrick;
-            this.btnEnglish.Font = new System.Drawing.Font("Kristen ITC", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnEnglish.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnEnglish.ForeColor = System.Drawing.SystemColors.ControlLight;
             this.btnEnglish.Location = new System.Drawing.Point(840, 514);
             this.btnEnglish.Margin = new System.Windows.Forms.Padding(6, 5, 6, 5);
@@ -88,7 +89,7 @@
             // btnFrench
             // 
             this.btnFrench.BackColor = System.Drawing.Color.MidnightBlue;
-            this.btnFrench.Font = new System.Drawing.Font("Kristen ITC", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnFrench.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnFrench.ForeColor = System.Drawing.SystemColors.ControlLight;
             this.btnFrench.Location = new System.Drawing.Point(685, 514);
             this.btnFrench.Margin = new System.Windows.Forms.Padding(6, 5, 6, 5);
@@ -102,7 +103,7 @@
             // btnExit
             // 
             this.btnExit.BackColor = System.Drawing.Color.DarkGreen;
-            this.btnExit.Font = new System.Drawing.Font("Kristen ITC", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnExit.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnExit.ForeColor = System.Drawing.SystemColors.ControlLight;
             this.btnExit.Location = new System.Drawing.Point(731, 352);
             this.btnExit.Margin = new System.Windows.Forms.Padding(6, 5, 6, 5);
@@ -116,7 +117,7 @@
             // btnHumanToComputer
             // 
             this.btnHumanToComputer.BackColor = System.Drawing.Color.DarkGreen;
-            this.btnHumanToComputer.Font = new System.Drawing.Font("Kristen ITC", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnHumanToComputer.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnHumanToComputer.ForeColor = System.Drawing.SystemColors.ControlLight;
             this.btnHumanToComputer.Location = new System.Drawing.Point(28, 96);
             this.btnHumanToComputer.Margin = new System.Windows.Forms.Padding(6, 5, 6, 5);
@@ -130,7 +131,7 @@
             // btnHumanToHuman
             // 
             this.btnHumanToHuman.BackColor = System.Drawing.Color.Green;
-            this.btnHumanToHuman.Font = new System.Drawing.Font("Kristen ITC", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnHumanToHuman.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnHumanToHuman.ForeColor = System.Drawing.SystemColors.ControlLight;
             this.btnHumanToHuman.Location = new System.Drawing.Point(29, 173);
             this.btnHumanToHuman.Margin = new System.Windows.Forms.Padding(6, 5, 6, 5);
@@ -144,7 +145,7 @@
             // btn2
             // 
             this.btn2.BackColor = System.Drawing.Color.LimeGreen;
-            this.btn2.Font = new System.Drawing.Font("Kristen ITC", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn2.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn2.ForeColor = System.Drawing.SystemColors.ControlText;
             this.btn2.Location = new System.Drawing.Point(420, 145);
             this.btn2.Margin = new System.Windows.Forms.Padding(6, 5, 6, 5);
@@ -158,7 +159,7 @@
             // btn3
             // 
             this.btn3.BackColor = System.Drawing.Color.LimeGreen;
-            this.btn3.Font = new System.Drawing.Font("Kristen ITC", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn3.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn3.ForeColor = System.Drawing.SystemColors.ControlText;
             this.btn3.Location = new System.Drawing.Point(522, 145);
             this.btn3.Margin = new System.Windows.Forms.Padding(6, 5, 6, 5);
@@ -172,7 +173,7 @@
             // btn4
             // 
             this.btn4.BackColor = System.Drawing.Color.LimeGreen;
-            this.btn4.Font = new System.Drawing.Font("Kristen ITC", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn4.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn4.ForeColor = System.Drawing.SystemColors.ControlText;
             this.btn4.Location = new System.Drawing.Point(318, 246);
             this.btn4.Margin = new System.Windows.Forms.Padding(6, 5, 6, 5);
@@ -186,7 +187,7 @@
             // btn5
             // 
             this.btn5.BackColor = System.Drawing.Color.LimeGreen;
-            this.btn5.Font = new System.Drawing.Font("Kristen ITC", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn5.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn5.ForeColor = System.Drawing.SystemColors.ControlText;
             this.btn5.Location = new System.Drawing.Point(420, 246);
             this.btn5.Margin = new System.Windows.Forms.Padding(6, 5, 6, 5);
@@ -200,7 +201,7 @@
             // btn6
             // 
             this.btn6.BackColor = System.Drawing.Color.LimeGreen;
-            this.btn6.Font = new System.Drawing.Font("Kristen ITC", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn6.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn6.ForeColor = System.Drawing.SystemColors.ControlText;
             this.btn6.Location = new System.Drawing.Point(522, 246);
             this.btn6.Margin = new System.Windows.Forms.Padding(6, 5, 6, 5);
@@ -214,7 +215,7 @@
             // btn7
             // 
             this.btn7.BackColor = System.Drawing.Color.LimeGreen;
-            this.btn7.Font = new System.Drawing.Font("Kristen ITC", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn7.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn7.ForeColor = System.Drawing.SystemColors.ControlText;
             this.btn7.Location = new System.Drawing.Point(318, 344);
             this.btn7.Margin = new System.Windows.Forms.Padding(6, 5, 6, 5);
@@ -228,7 +229,7 @@
             // btn8
             // 
             this.btn8.BackColor = System.Drawing.Color.LimeGreen;
-            this.btn8.Font = new System.Drawing.Font("Kristen ITC", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn8.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn8.ForeColor = System.Drawing.SystemColors.ControlText;
             this.btn8.Location = new System.Drawing.Point(420, 346);
             this.btn8.Margin = new System.Windows.Forms.Padding(6, 5, 6, 5);
@@ -242,7 +243,7 @@
             // btn9
             // 
             this.btn9.BackColor = System.Drawing.Color.LimeGreen;
-            this.btn9.Font = new System.Drawing.Font("Kristen ITC", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn9.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn9.ForeColor = System.Drawing.SystemColors.ControlText;
             this.btn9.Location = new System.Drawing.Point(522, 346);
             this.btn9.Margin = new System.Windows.Forms.Padding(6, 5, 6, 5);
@@ -257,11 +258,11 @@
             // 
             this.lblLevel.AutoSize = true;
             this.lblLevel.BackColor = System.Drawing.Color.Transparent;
-            this.lblLevel.Font = new System.Drawing.Font("Kristen ITC", 17.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblLevel.Font = new System.Drawing.Font("Microsoft Sans Serif", 17.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblLevel.Location = new System.Drawing.Point(66, 265);
             this.lblLevel.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
             this.lblLevel.Name = "lblLevel";
-            this.lblLevel.Size = new System.Drawing.Size(161, 30);
+            this.lblLevel.Size = new System.Drawing.Size(303, 53);
             this.lblLevel.TabIndex = 22;
             this.lblLevel.Text = "Choose level:";
             // 
@@ -269,11 +270,11 @@
             // 
             this.radioEasy.AutoSize = true;
             this.radioEasy.BackColor = System.Drawing.Color.Transparent;
-            this.radioEasy.Font = new System.Drawing.Font("Kristen ITC", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.radioEasy.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.radioEasy.Location = new System.Drawing.Point(91, 311);
             this.radioEasy.Margin = new System.Windows.Forms.Padding(6, 5, 6, 5);
             this.radioEasy.Name = "radioEasy";
-            this.radioEasy.Size = new System.Drawing.Size(73, 32);
+            this.radioEasy.Size = new System.Drawing.Size(140, 50);
             this.radioEasy.TabIndex = 23;
             this.radioEasy.Text = "Easy";
             this.radioEasy.UseVisualStyleBackColor = false;
@@ -284,11 +285,11 @@
             this.radioMedium.AutoSize = true;
             this.radioMedium.BackColor = System.Drawing.Color.Transparent;
             this.radioMedium.Checked = true;
-            this.radioMedium.Font = new System.Drawing.Font("Kristen ITC", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.radioMedium.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.radioMedium.Location = new System.Drawing.Point(93, 352);
             this.radioMedium.Margin = new System.Windows.Forms.Padding(6, 5, 6, 5);
             this.radioMedium.Name = "radioMedium";
-            this.radioMedium.Size = new System.Drawing.Size(110, 32);
+            this.radioMedium.Size = new System.Drawing.Size(192, 50);
             this.radioMedium.TabIndex = 24;
             this.radioMedium.TabStop = true;
             this.radioMedium.Text = "Medium";
@@ -299,11 +300,11 @@
             // 
             this.radioHard.AutoSize = true;
             this.radioHard.BackColor = System.Drawing.Color.Transparent;
-            this.radioHard.Font = new System.Drawing.Font("Kristen ITC", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.radioHard.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.radioHard.Location = new System.Drawing.Point(93, 394);
             this.radioHard.Margin = new System.Windows.Forms.Padding(6, 5, 6, 5);
             this.radioHard.Name = "radioHard";
-            this.radioHard.Size = new System.Drawing.Size(80, 32);
+            this.radioHard.Size = new System.Drawing.Size(137, 50);
             this.radioHard.TabIndex = 25;
             this.radioHard.Text = "Hard";
             this.radioHard.UseVisualStyleBackColor = false;
@@ -313,19 +314,19 @@
             // 
             this.lblName.AutoSize = true;
             this.lblName.BackColor = System.Drawing.Color.Transparent;
-            this.lblName.Font = new System.Drawing.Font("Kristen ITC", 26.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblName.Font = new System.Drawing.Font("Microsoft Sans Serif", 26.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblName.ForeColor = System.Drawing.SystemColors.ControlText;
             this.lblName.Location = new System.Drawing.Point(347, 61);
             this.lblName.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
             this.lblName.Name = "lblName";
-            this.lblName.Size = new System.Drawing.Size(243, 47);
+            this.lblName.Size = new System.Drawing.Size(423, 79);
             this.lblName.TabIndex = 26;
             this.lblName.Text = "Tic Tac Toe ";
             // 
             // btnStart
             // 
             this.btnStart.BackColor = System.Drawing.Color.DarkOrange;
-            this.btnStart.Font = new System.Drawing.Font("Kristen ITC", 17.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnStart.Font = new System.Drawing.Font("Microsoft Sans Serif", 17.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnStart.ForeColor = System.Drawing.SystemColors.ControlText;
             this.btnStart.Location = new System.Drawing.Point(45, 465);
             this.btnStart.Margin = new System.Windows.Forms.Padding(6, 5, 6, 5);
@@ -339,7 +340,7 @@
             // btnUndo
             // 
             this.btnUndo.BackColor = System.Drawing.Color.Green;
-            this.btnUndo.Font = new System.Drawing.Font("Kristen ITC", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnUndo.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnUndo.ForeColor = System.Drawing.SystemColors.ControlLight;
             this.btnUndo.Location = new System.Drawing.Point(731, 265);
             this.btnUndo.Margin = new System.Windows.Forms.Padding(6, 5, 6, 5);
@@ -354,11 +355,11 @@
             // 
             this.lblGameType.AutoSize = true;
             this.lblGameType.BackColor = System.Drawing.Color.Transparent;
-            this.lblGameType.Font = new System.Drawing.Font("Kristen ITC", 17.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblGameType.Font = new System.Drawing.Font("Microsoft Sans Serif", 17.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblGameType.Location = new System.Drawing.Point(44, 49);
             this.lblGameType.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
             this.lblGameType.Name = "lblGameType";
-            this.lblGameType.Size = new System.Drawing.Size(226, 30);
+            this.lblGameType.Size = new System.Drawing.Size(415, 53);
             this.lblGameType.TabIndex = 29;
             this.lblGameType.Text = "Choose opponent: ";
             // 
@@ -366,11 +367,11 @@
             // 
             this.lblResults.AutoSize = true;
             this.lblResults.BackColor = System.Drawing.Color.Transparent;
-            this.lblResults.Font = new System.Drawing.Font("Kristen ITC", 17.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblResults.Font = new System.Drawing.Font("Microsoft Sans Serif", 17.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblResults.Location = new System.Drawing.Point(707, 61);
             this.lblResults.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
             this.lblResults.Name = "lblResults";
-            this.lblResults.Size = new System.Drawing.Size(253, 30);
+            this.lblResults.Size = new System.Drawing.Size(461, 53);
             this.lblResults.TabIndex = 30;
             this.lblResults.Text = "Results for the game:";
             // 
@@ -378,11 +379,11 @@
             // 
             this.lblPlayerX.AutoSize = true;
             this.lblPlayerX.BackColor = System.Drawing.Color.Transparent;
-            this.lblPlayerX.Font = new System.Drawing.Font("Kristen ITC", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblPlayerX.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblPlayerX.Location = new System.Drawing.Point(667, 123);
             this.lblPlayerX.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
             this.lblPlayerX.Name = "lblPlayerX";
-            this.lblPlayerX.Size = new System.Drawing.Size(103, 29);
+            this.lblPlayerX.Size = new System.Drawing.Size(190, 48);
             this.lblPlayerX.TabIndex = 31;
             this.lblPlayerX.Text = "Player X:";
             // 
@@ -390,11 +391,11 @@
             // 
             this.lblPlayerO.AutoSize = true;
             this.lblPlayerO.BackColor = System.Drawing.Color.Transparent;
-            this.lblPlayerO.Font = new System.Drawing.Font("Kristen ITC", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblPlayerO.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblPlayerO.Location = new System.Drawing.Point(646, 179);
             this.lblPlayerO.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
             this.lblPlayerO.Name = "lblPlayerO";
-            this.lblPlayerO.Size = new System.Drawing.Size(124, 29);
+            this.lblPlayerO.Size = new System.Drawing.Size(215, 48);
             this.lblPlayerO.TabIndex = 32;
             this.lblPlayerO.Text = "Computer:";
             // 
@@ -402,35 +403,50 @@
             // 
             this.txtPlayerXResult.BackColor = System.Drawing.Color.DarkOrange;
             this.txtPlayerXResult.Enabled = false;
-            this.txtPlayerXResult.Font = new System.Drawing.Font("Kristen ITC", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtPlayerXResult.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtPlayerXResult.ForeColor = System.Drawing.SystemColors.ControlText;
             this.txtPlayerXResult.Location = new System.Drawing.Point(813, 117);
             this.txtPlayerXResult.Margin = new System.Windows.Forms.Padding(6, 5, 6, 5);
             this.txtPlayerXResult.Name = "txtPlayerXResult";
             this.txtPlayerXResult.ReadOnly = true;
-            this.txtPlayerXResult.Size = new System.Drawing.Size(180, 40);
+            this.txtPlayerXResult.Size = new System.Drawing.Size(180, 62);
             this.txtPlayerXResult.TabIndex = 33;
             // 
             // txtPlayerOResult
             // 
             this.txtPlayerOResult.BackColor = System.Drawing.Color.DarkOrange;
             this.txtPlayerOResult.Enabled = false;
-            this.txtPlayerOResult.Font = new System.Drawing.Font("Kristen ITC", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtPlayerOResult.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtPlayerOResult.ForeColor = System.Drawing.SystemColors.ControlText;
             this.txtPlayerOResult.Location = new System.Drawing.Point(813, 173);
             this.txtPlayerOResult.Margin = new System.Windows.Forms.Padding(6, 5, 6, 5);
             this.txtPlayerOResult.Name = "txtPlayerOResult";
             this.txtPlayerOResult.ReadOnly = true;
-            this.txtPlayerOResult.Size = new System.Drawing.Size(180, 40);
+            this.txtPlayerOResult.Size = new System.Drawing.Size(180, 62);
             this.txtPlayerOResult.TabIndex = 34;
+            // 
+            // button2
+            // 
+            this.button2.BackColor = System.Drawing.Color.MidnightBlue;
+            this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button2.ForeColor = System.Drawing.SystemColors.ControlLight;
+            this.button2.Location = new System.Drawing.Point(526, 514);
+            this.button2.Margin = new System.Windows.Forms.Padding(6, 5, 6, 5);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(147, 64);
+            this.button2.TabIndex = 36;
+            this.button2.Text = "s";
+            this.button2.UseVisualStyleBackColor = false;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // TicTacToe
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(11F, 23F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(19F, 37F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoScroll = true;
             this.BackgroundImage = global::WindowsFormsApplication1.Properties.Resources.background;
-            this.ClientSize = new System.Drawing.Size(1008, 592);
+            this.ClientSize = new System.Drawing.Size(1210, 679);
+            this.Controls.Add(this.button2);
             this.Controls.Add(this.txtPlayerOResult);
             this.Controls.Add(this.txtPlayerXResult);
             this.Controls.Add(this.lblPlayerO);
@@ -458,7 +474,7 @@
             this.Controls.Add(this.btnFrench);
             this.Controls.Add(this.btnEnglish);
             this.Controls.Add(this.btn1);
-            this.Font = new System.Drawing.Font("Kristen ITC", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.Margin = new System.Windows.Forms.Padding(6, 5, 6, 5);
             this.Name = "TicTacToe";
@@ -497,6 +513,7 @@
         private System.Windows.Forms.Label lblPlayerO;
         private System.Windows.Forms.TextBox txtPlayerXResult;
         private System.Windows.Forms.TextBox txtPlayerOResult;
+        private System.Windows.Forms.Button button2;
     }
 }
 

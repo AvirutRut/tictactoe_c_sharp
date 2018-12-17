@@ -424,6 +424,7 @@ namespace WindowsFormsApplication1
                     playerXPts + "\n\n" +
                     (opponent == 0 ? "Joueur O:         " : "L'ordinateur:   ") + playerOPts);
             setDefault();
+            Application.Exit();
         }
 
         /**

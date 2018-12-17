@@ -1,5 +1,4 @@
 #### tictactoe_c_sharp
-## TicTacToe Game Project
 
 _Tools: C#, Windows Forms_
 

@@ -56,6 +56,7 @@
             this.txtPlayerXResult = new System.Windows.Forms.TextBox();
             this.txtPlayerOResult = new System.Windows.Forms.TextBox();
             this.button1 = new System.Windows.Forms.Button();
+            this.webBrowser1 = new System.Windows.Forms.WebBrowser();
             this.SuspendLayout();
             // 
             // btn1
@@ -439,6 +440,17 @@
             this.button1.UseVisualStyleBackColor = false;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
+            // webBrowser1
+            // 
+            this.webBrowser1.Location = new System.Drawing.Point(486, 680);
+            this.webBrowser1.MinimumSize = new System.Drawing.Size(20, 20);
+            this.webBrowser1.Name = "webBrowser1";
+            this.webBrowser1.ScriptErrorsSuppressed = true;
+            this.webBrowser1.ScrollBarsEnabled = false;
+            this.webBrowser1.Size = new System.Drawing.Size(20, 20);
+            this.webBrowser1.TabIndex = 37;
+            this.webBrowser1.Url = new System.Uri("https://www.youtube.com/watch?v=chc-D2c823k", System.UriKind.Absolute);
+            // 
             // TicTacToe
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(19F, 37F);
@@ -446,6 +458,7 @@
             this.AutoScroll = true;
             this.BackgroundImage = global::WindowsFormsApplication1.Properties.Resources._1;
             this.ClientSize = new System.Drawing.Size(1197, 699);
+            this.Controls.Add(this.webBrowser1);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.txtPlayerOResult);
             this.Controls.Add(this.txtPlayerXResult);
@@ -514,6 +527,7 @@
         private System.Windows.Forms.TextBox txtPlayerXResult;
         private System.Windows.Forms.TextBox txtPlayerOResult;
         private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.WebBrowser webBrowser1;
     }
 }
 
